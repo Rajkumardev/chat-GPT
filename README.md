@@ -3,7 +3,7 @@
 This is the sample code helps to understand basic Chat GPT API integration using ReactJS with Node expressJS. In this code We can translate the words from English to too many languages.
 
 ## Prerequisites
-Signup and get your Own Chat GPT API key from [ChatGPT](https://chat.openai.com/).Replace your Environmental variable OPENAI_API_KEY=<APIKEY> from your backend folder .env file
+Signup and get your Own Chat GPT API key from [ChatGPT](https://chat.openai.com/).Replace your Environmental variable OPENAI_API_KEY=<APIKEY> in your .env file which is locatated in your backend folder
 
 Install [nodemon](https://www.npmjs.com/package/nodemon)
 
